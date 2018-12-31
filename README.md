@@ -1,4 +1,4 @@
-# LoTi Public Repository
+# LoTi - Link objects Through internet
 
 Official Public LoTi Repository.
 
