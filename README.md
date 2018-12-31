@@ -1,2 +1,2 @@
 # LoTi - Link objects Through internet
-Official LoTi Repository
+Official Public LoTi Repository
